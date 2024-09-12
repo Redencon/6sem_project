@@ -1,0 +1,6 @@
+pandas
+wordcloud
+scikit-learn
+plotly
+matplotlib
+statsmodels
